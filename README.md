@@ -7,7 +7,7 @@ Ejecución de los diferentes temas vistos en clases, ejemplificados con temas de
 
 ## Authors
 
-- [@Ruizerick26](https://www.github.com/Ruizerick26)
+#IsmaelNovillo
 
 
 ## Capturas
